@@ -84,10 +84,10 @@ void Mixed_marriageY_F(){
     cout<<"Foreign wife:\n";
     cout<<"1) Bring Photograph\n";
     cout<<"2) HIV TEST AIDS screening\n";
-    cout<<"3) Approval of the wife’s guardian\n";
-    cout<<"4) A copy of the father and mother’s passport\n";
+    cout<<"3) Approval of the wifeâ€™s guardian\n";
+    cout<<"4) A copy of the father and motherâ€™s passport\n";
     cout<<"5) Certificate of good conduct and conduct\n";
-    cout<<"6) Approval of the authorities in the wife’s country\n";
+    cout<<"6) Approval of the authorities in the wifeâ€™s country\n";
     cout<<"\n7) **Enter your Passport and a copy thereof**\n";
     cin>>pass_W;
 
@@ -115,7 +115,7 @@ void Mixed_marriageF_Y(){
     cout<<"Foreign husband:\n";
     cout<<"1) Bring Photograph\n";
     cout<<"2) Health certificate (HIV TEST AIDS test)\n";
-    cout<<"3) A copy of the father and mother’s passport\n";
+    cout<<"3) A copy of the father and motherâ€™s passport\n";
     cout<<"4) Original certificate of good conduct\n";
     cout<<"5) The original approval of the authorities in his country\n";
     cout<<"6) To be a Muslim\n";
